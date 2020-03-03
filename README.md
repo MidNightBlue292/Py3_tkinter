@@ -26,3 +26,9 @@ Aprendendo a programar em Python3 - tkinter
 012 Propriedade anchor
 
 013 Propriedade fill
+
+014 Propriedade expand
+
+015 Propriedade grid (row/column)
+
+016 Janela login/senha parte 1
