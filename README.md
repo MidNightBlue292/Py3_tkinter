@@ -32,3 +32,7 @@ Aprendendo a programar em Python3 - tkinter
 015 Propriedade grid (row/column)
 
 016 Janela login/senha parte 1
+
+017 Propriedade sticky
+
+018 Propriedade rowspan/columnspan
